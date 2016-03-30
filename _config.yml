@@ -1,6 +1,6 @@
 name: MFP Wealth Management
 favicon: null
-layout_spectrum: 0.10248859855346382
+layout_spectrum: 0.82151
 typography_spectrum: 0.8569836374372244
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.36623009387403727
+    - '#5b2d3f'
+    - '#64676b'
+    - '#000000'
+    - '#550000'
+    - '#800000'
+  brandStrength: 0.9375
   lightness: 0.29408612265251577
   saturation: 0.41078240470960736
   rhythmicContrast: 0.4778594905510545
